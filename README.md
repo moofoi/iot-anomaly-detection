@@ -13,4 +13,4 @@ in industrial sensor data.
 Python • scikit-learn • Streamlit • Plotly • pandas
 
 ## Live Demo
-[Click here](ใส่ link Streamlit)
+[Click here](https://iot-anomaly-detection-demo.streamlit.app/)
